@@ -1,0 +1,22 @@
+{
+  "feature_name": "habit100-ai-coach",
+  "created_at": "2025-10-25T01:26:30Z",
+  "updated_at": "2025-10-25T01:35:10Z",
+  "language": "ja",
+  "phase": "tasks-generated",
+  "approvals": {
+    "requirements": {
+      "generated": true,
+      "approved": true
+    },
+    "design": {
+      "generated": true,
+      "approved": true
+    },
+    "tasks": {
+      "generated": true,
+      "approved": true
+    }
+  },
+  "ready_for_implementation": true
+}

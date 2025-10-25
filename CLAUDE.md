@@ -15,7 +15,7 @@ Kiro-style Spec Driven Development implementation using claude code slash comman
 **Specs** (`.kiro/specs/`) - Formalize development process for individual features
 
 ### Active Specifications
-- Check `.kiro/specs/` for active specifications
+- **habit100-ai-coach**: 100日習慣チャレンジアプリ with AIコーチング機能（Phase: initialized）
 - Use `/kiro:spec-status [feature-name]` to check progress
 
 ## Development Guidelines
